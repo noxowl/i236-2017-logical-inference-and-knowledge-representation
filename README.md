@@ -1,4 +1,4 @@
-# Logical Inference and Knowledge Representation (論理推論と知識表現)
+# I236-2017 Logical Inference and Knowledge Representation (論理推論と知識表現)
 The notes below are a compilation of self-study based on the course materials that were provided, and may contain incorrect information that due to misunderstandings.
 
 ## Logical Inference
