@@ -114,9 +114,9 @@ The notes below are a compilation of self-study based on the course materials th
 - 변수(Variable term)" $x, y, z, ...$
 - 술어(Predicate): $p, q, r, ...$
 - 리터럴(Literal): $p(a), \lnot q(b), p(x), q(y), ...$
-    - $x$는 인간$(p)$: $p(x)$
-    - $x$는 한국인$(q)$: $q(x)$
-    - $x$가 한국인이고 $x$가 인간이라면: $\forall x$ $[q(x) \to p(x)]$
+    - $x$는 인간($p$): $p(x)$
+    - $x$는 한국인($q$): $q(x)$
+    - $x$가 한국인이면 $x$는 인간이다: $\forall x$ $[q(x) \to p(x)]$
 - Quantifier(限量子, 한정사)
     - 변수의 범위를 지정한다.
     - $\forall$ (For all), $\exists$ (There exists)
